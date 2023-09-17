@@ -30,8 +30,16 @@
   cursor: pointer;
   padding: .5rem;
   border-radius: 5px;
+  transition: all 150ms ease-in-out;
 }
 
+.question-container li:hover{
+  scale:1.01;
+}
+
+.question-container li:not(.bg-green):not(.bg-yellow):not(.bg-red):hover {
+  background: #f3f3f31c;
+}
 
 .bg-green {
   background-color: rgba(128, 255, 0, 0.5);

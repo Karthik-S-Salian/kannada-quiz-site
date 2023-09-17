@@ -23,7 +23,7 @@ function Question(props) {
         <ol>
           {options.map((option, index) => {
             return (
-              <li key={index} className={`${option == selectedOption ? "bg-yellow" : ""} ${option == ans ? "bg-green" : ""} `} onClick={() => { handleOptionChange(option) }} >
+              <li key={index} className={`${(option == ans)?"bg-green":(option == selectedOption) ? "bg-yellow" : ""} `} onClick={() => { handleOptionChange(option) }} >
                 {option}
               </li>
             )

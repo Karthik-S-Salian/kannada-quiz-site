@@ -68,9 +68,6 @@ function App() {
         />)
 
   }
-  console.log(kannadaType,attemptType)
-
-
 
   return (
     <main>
