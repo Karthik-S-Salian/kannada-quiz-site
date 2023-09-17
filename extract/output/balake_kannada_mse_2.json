@@ -1,0 +1,2531 @@
+[
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. NaaLe ______ uurige hogoNvaa ? (WE)",
+        "options": [
+            "naavu",
+            "niivu",
+            "taavu",
+            "avaru"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. ninna ______ enu  ? (name)",
+        "options": [
+            "hesaru",
+            "uuru",
+            "tamma ",
+            "haLLi"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. nimage kaafii ______ ?.(don't)",
+        "options": [
+            "bEDave",
+            "bEke",
+            "kuDiyiri",
+            "sEvisi"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. naanu _____ benglurige hoguve .(tomorrow)",
+        "options": [
+            "nALe",
+            "ninne",
+            "ivattu",
+            "monne"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. namma kaalejina raste ________ ? (which)",
+        "options": [
+            "yAvudu",
+            "yaaru ",
+            "elli ",
+            "hEge"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. avanige ii viShayavannu niivu kuddagi ______ (inform)",
+        "options": [
+            "tiLisi",
+            "heLisi",
+            "talupisi",
+            "nenpisi"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. ________ Raamuge heLuttiraa ? (you)",
+        "options": [
+            "niivu",
+            "avaru",
+            "ivaru",
+            "tamma"
+        ]
+    },
+    {
+        "question": "Kannada translation of 'stand up' is",
+        "options": [
+            "nillu",
+            "kuLituko",
+            "ODu",
+            "baa"
+        ]
+    },
+    {
+        "question": "Kannada translation of 'come fast' is",
+        "options": [
+            "bega baa",
+            "nidaanavaagi baa",
+            "mella baa",
+            "tirugi baa"
+        ]
+    },
+    {
+        "question": "Kannada translation of 'please you go to bangalore.' is",
+        "options": [
+            "niinu dayavittu bengaLurige hOgu.",
+            "niinu bengaLurige baa",
+            "bengLUrinind baa dayamaadi",
+            "none of these"
+        ]
+    },
+    {
+        "question": "Kannada translation of 'Will you come to college today ?' is",
+        "options": [
+            "ivttu niinu kaalejige bruttiya ?",
+            "ninna kaalejige barutti ?",
+            "baruttiya niinu ninna kaaleju ?",
+            "kaaleju niiinu baruttade"
+        ]
+    },
+    {
+        "question": "Kannada translation of 'get out' is",
+        "options": [
+            "eddu  hOgu",
+            "olge baa",
+            "edddu kuLituko",
+            "nadDedu baa"
+        ]
+    },
+    {
+        "question": "Kannada translation of 'when you come ?' is",
+        "options": [
+            "yavaaga bandiri",
+            "elli bandiri",
+            "hege bandiri",
+            "ellinda bandiri"
+        ]
+    },
+    {
+        "question": "Kannada translation of 'shall I go ?' is",
+        "options": [
+            "naanu hogala",
+            "avanu hogala",
+            "avalu hoguvaLu",
+            "none of these"
+        ]
+    },
+    {
+        "question": " Fill in the blank using the correct form of Kannada word given in the bracket. Niinu ________ (come)",
+        "options": [
+            "baa",
+            "hogu",
+            "malagu",
+            "none of these"
+        ]
+    },
+    {
+        "question": "If kuDi : kuDiyiri :: tinni : _________",
+        "options": [
+            "tinniri",
+            "tinnoNa",
+            "tinnu ",
+            "uNNu"
+        ]
+    },
+    {
+        "question": "If kuDi : kuDiyiri :: hogu : _________",
+        "options": [
+            "hogiri",
+            "hoguv",
+            "hoogisu",
+            "hoogli"
+        ]
+    },
+    {
+        "question": "If kuDi : kuDiyiri :: baa : _________",
+        "options": [
+            "banniri",
+            "banni",
+            "barali",
+            "none of these"
+        ]
+    },
+    {
+        "question": "If kuDi : kuDiyiri :: ese : _________",
+        "options": [
+            "eseyiri",
+            "bisaaku",
+            "bisaaDu",
+            "biisu"
+        ]
+    },
+    {
+        "question": "If kuDi : kuDiyiri :: haaku : _________",
+        "options": [
+            "haakiri",
+            "haakikoLLi",
+            "haakisi",
+            "haakuva"
+        ]
+    },
+    {
+        "question": "If kuDi : kuDiyiri :: nuDi : _________",
+        "options": [
+            "nuDiyiri",
+            "nudisi",
+            "heLisi",
+            "haaDisi"
+        ]
+    },
+    {
+        "question": "If kuDi : kuDiyiri :: koLLu : _________",
+        "options": [
+            "koLLiri",
+            "konDukoLLi",
+            "koDisi",
+            "koDu"
+        ]
+    },
+    {
+        "question": "If kuDi : kuDiyiri :: noDu : _________",
+        "options": [
+            "noDiri",
+            "noDONa",
+            "noDikoLLi",
+            "none of these"
+        ]
+    },
+    {
+        "question": "If hogu : hogoNaa :: tinnu : _________",
+        "options": [
+            "tinnoNaa",
+            "tinnisi",
+            "tinnisu",
+            "tinnali"
+        ]
+    },
+    {
+        "question": "If hogu : hogoNaa :: maDu : _________",
+        "options": [
+            "madoNaa",
+            "maaDuva",
+            "maaDisu",
+            "maaDikoLLU"
+        ]
+    },
+    {
+        "question": "If hogu : hogoNaa :: koDu : ____________",
+        "options": [
+            "koDoNaa",
+            "koDabeDa",
+            "koDadiru",
+            "koDabeeDa"
+        ]
+    },
+    {
+        "question": "If hogu : hogoNaa :: baa : ____________",
+        "options": [
+            "baroNaa",
+            "banni",
+            "barali",
+            "baruvantaagli"
+        ]
+    },
+    {
+        "question": "If hogu : hogoNaa :: odu : _________",
+        "options": [
+            "odoNaa",
+            "oodali",
+            "oodisi",
+            "oodikoLLi"
+        ]
+    },
+    {
+        "question": "If hogu : hogoNaa :: bare : _________",
+        "options": [
+            "bareyoNaa",
+            "baredukoLLooNa",
+            "bareyali",
+            "baresiri"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. niinu_______ ( may come)",
+        "options": [
+            "barabahudu",
+            "baa",
+            "banniri",
+            "hoogiri"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. naaLe ______ uurige hogoNavaa ? (I and you)",
+        "options": [
+            "naanu niinu",
+            "avanu ivanu",
+            "avaru ivaru",
+            "adu idu"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. nimma kaalejinaa ______ enu ? (name) ",
+        "options": [
+            "hesaru",
+            "daari",
+            "uuru",
+            "haLLi"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. nanage tea _____ (don't)",
+        "options": [
+            "beDa ",
+            "beku",
+            "bekittu",
+            "bekaagittfu"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. naanu ____ Hasanake hoguve. (tommorrow)",
+        "options": [
+            "naaLe ",
+            "ninne",
+            "monne",
+            "andu"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. namma kaalejina raste _______ (Which)",
+        "options": [
+            "yaavudu",
+            "elli",
+            "ellinda",
+            "illiye"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. avanige ii viSayavannu nivu ________ ( inform)",
+        "options": [
+            "tiLisi",
+            "heLiri",
+            "kaLisiri",
+            "none of these"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. GaNesha mattu Raamuge ______ heLuttiraa ? (you)",
+        "options": [
+            "nivu",
+            "naanu",
+            "avanu",
+            "avaLu"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. angaDige niinu bega hogi _______ (come)",
+        "options": [
+            "baa",
+            "banniri",
+            "kuLituko",
+            "hogu"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. naanu _____ kaayuttiruttene ( for you)",
+        "options": [
+            "ninagaagi",
+            "ninninda",
+            "ninnalli",
+            "nanagaagi"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. beDa amele _____ (go)",
+        "options": [
+            "hogu",
+            "baaa",
+            "nillu",
+            "oDu"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. saar niivu _______ maaDi (lesson)",
+        "options": [
+            "paaTa",
+            "aata",
+            "uuTa",
+            "noTa"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. saar nanage gaNit pustaka ______ (want)",
+        "options": [
+            "beku",
+            "beDa",
+            "tanni",
+            "koDi"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. iiga _____ maaDali (what)",
+        "options": [
+            "eenu ",
+            "yaake",
+            "elli",
+            "hege"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. indu niinu vijnaan pustakvannu _______ . (read)",
+        "options": [
+            "odu",
+            "odisu",
+            "bareyali",
+            "tiLiyali"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. naaLe _____ .( don't come )",
+        "options": [
+            "barabeDa",
+            "baa",
+            "hogu",
+            "nilli"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. naaLe uurige ____ . (don't go)",
+        "options": [
+            "hogabeDa",
+            "hogu",
+            "banniri",
+            "baa"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. niinu nanna hesarannu ______ . (write)",
+        "options": [
+            "bare ",
+            "odu",
+            "noDu",
+            "tiLi"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. avanige pustaka ________ .( don't give )",
+        "options": [
+            "koDabeDa",
+            "koDu",
+            "koDisu",
+            "koDamaaDu"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. niinu sihi tinDi ________ (don't eat)",
+        "options": [
+            "tinnabeDa",
+            "tinnu",
+            "tinnisu",
+            "tinduko"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. naaLe manege ______ . (May come)",
+        "options": [
+            "barabahuda",
+            "banni",
+            "banniri",
+            "baaradiri"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. eSTu _____ ninna hattira ide .? (money)",
+        "options": [
+            "haNa",
+            "cillare",
+            "batte",
+            "none of these"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. nanage ninna pustakavannu ______ (give)",
+        "options": [
+            "koDu",
+            "keLu",
+            "taa ",
+            "torisu"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. naanu _____ hoguttene ( library)",
+        "options": [
+            "granthaalaya",
+            "mange",
+            "shaalege",
+            "uurige"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. nanage iigale _____ aagide .( hungry)",
+        "options": [
+            "hasivu",
+            "baayarike",
+            "daaha",
+            "aasaru"
+        ]
+    },
+    {
+        "question": "English sentence \"tomorrow is holiday.\" in Kannada is",
+        "options": [
+            "naLe raje",
+            "ninne raje ",
+            "monne raje ",
+            "none of these"
+        ]
+    },
+    {
+        "question": "English sentence \"I am in college .\" in Kannada is",
+        "options": [
+            "naanu kaalejinalli iddene",
+            "naanu kalejige baruve",
+            "iddene naanu kaleju",
+            "kaalejinalli niinu iddene"
+        ]
+    },
+    {
+        "question": "English sentence \"where are you.\" in Kannada is",
+        "options": [
+            "niinu elli iddiya ?",
+            "yaaru niinu ?",
+            "niinu yaake bande ?",
+            "ninna uurelli. ?"
+        ]
+    },
+    {
+        "question": "English sentence \"when you'r father will come ?\" in Kannada is",
+        "options": [
+            "nimma appa yaavaaga baruttare ?",
+            "ninna appa yaaru",
+            "niinu yaaru",
+            "appa elliddare"
+        ]
+    },
+    {
+        "question": "English sentence \"will you come to our home ?\" in Kannada is",
+        "options": [
+            "niinu namma manege bruttiya ?",
+            "ninnu manege namma hogutti ?",
+            "niinu manege iruttiya",
+            "niinu maneyinda hoguttiya ?"
+        ]
+    },
+    {
+        "question": "English sentence \"be in home.\" in Kannada is",
+        "options": [
+            "maneyalliye iru.",
+            "maneyalli irabeDa",
+            "manege hogu",
+            "manege banniri"
+        ]
+    },
+    {
+        "question": "English sentence \"holiday is given to  college .'' in Kannada is",
+        "options": [
+            "kaalejige raje koTTiddare.",
+            "kaalejige rajeye",
+            "raje kaaleju",
+            "kaalejige barabeke ?"
+        ]
+    },
+    {
+        "question": "English sentence \"where is vegetable shop ?\" in Kannada is",
+        "options": [
+            "tarakari angaDi ellide ?",
+            "tarakari ellide ?",
+            "tarakari yavudu ?",
+            "yava tarakari beku ?"
+        ]
+    },
+    {
+        "question": "English sentence \"where is he  ?\" in Kannada is",
+        "options": [
+            "avanu elliddane /",
+            "avanu yaaru ?",
+            "avanu bandane ?",
+            "avanige bar heLi"
+        ]
+    },
+    {
+        "question": "English sentence \"I will go to movie theatre with my brother\" in Kannada is",
+        "options": [
+            "naanu nanna aNNan jote sinimaakke hoguttene.",
+            "naanu obbane sinimakke hoguttene.",
+            "nani sinema nodide",
+            "naanu sinemaa noDuvudilla"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. nammurige niinu _____ (new)",
+        "options": [
+            "hosaba",
+            "haLaba",
+            "aprarupada",
+            "none of these"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. indu naaanu kaalejige ______(go)",
+        "options": [
+            "hoguttene",
+            "hogalla",
+            "hogiru",
+            "hogabeDa"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. nanage iiga ____ beDa .( meals)",
+        "options": [
+            "uuTa",
+            "tinDi",
+            "tinisu",
+            "chaa"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. nannannu _____ (leave)",
+        "options": [
+            "biDu",
+            "hiDi",
+            "kare",
+            "kaLisu"
+        ]
+    },
+    {
+        "question": "If kaaleju + inda = kaalejininda then mane + inda = _______",
+        "options": [
+            "maneyinda",
+            "manege",
+            "maneyalli",
+            "maneya"
+        ]
+    },
+    {
+        "question": "If kaaleju + inda = kaalejininda then canTeen + inda = _______",
+        "options": [
+            "canTeeninda",
+            "canteenina",
+            "canTeenige",
+            "canTeenigagi"
+        ]
+    },
+    {
+        "question": "If kaaleju + inda = kaalejininda then haasana+ inda = _______",
+        "options": [
+            "haasanadinda",
+            "hasanakke",
+            "hasaanad",
+            "hasanakke"
+        ]
+    },
+    {
+        "question": "If kaaleju + inda = kaalejininda then pustaka + inda = _______",
+        "options": [
+            "pustakadinda",
+            "pustakakke",
+            "pustakada",
+            "pustakadalli"
+        ]
+    },
+    {
+        "question": "If kaaleju + inda = kaalejininda then pensil + inda = _______",
+        "options": [
+            "pensillininda",
+            "pensilligaagi",
+            "pensillu",
+            "pennupensil"
+        ]
+    },
+    {
+        "question": "If kaaleju + inda = kaalejininda then kannaDa + inda = _______",
+        "options": [
+            "kannaDadinda",
+            "kannaDakke",
+            "kannaDada",
+            "kannaDadalli"
+        ]
+    },
+    {
+        "question": "If kaaleju + inda = kaalejininda then mobile + inda = _______",
+        "options": [
+            "mobilininda",
+            "mobilige",
+            "mobilu",
+            "mobilinalli"
+        ]
+    },
+    {
+        "question": "If kaaleju + inda = kaalejininda then bassu + inda = _______",
+        "options": [
+            "bassininda",
+            "bassinalli",
+            "bassigaagi",
+            "bassanneri"
+        ]
+    },
+    {
+        "question": "If kaaleju + inda = kaalejininda then kaar + inda = _______",
+        "options": [
+            "kaarininda",
+            "kaarinalli",
+            "kaarige",
+            "kaarigaagi"
+        ]
+    },
+    {
+        "question": "If kaaleju + inda = kaalejininda then avana + inda = _______",
+        "options": [
+            "avaninda",
+            "avaLige",
+            "avarige",
+            "avaralli"
+        ]
+    },
+    {
+        "question": "Fill in the blank using the correct form of Kannada word given in the bracket. nanage sakkare ______saaku. (less)",
+        "options": [
+            "kaDime",
+            "heccu",
+            "jaasti",
+            "none of these"
+        ]
+    },
+    {
+        "question": "Use of local language______.",
+        "options": [
+            "All of these",
+            "Makes life easier",
+            "Ensures security",
+            "Enables mingling with locals"
+        ]
+    },
+    {
+        "question": "______ is the official language of Karnataka state.",
+        "options": [
+            "Kannada",
+            "Hindi",
+            "Tulu",
+            "Marathi"
+        ]
+    },
+    {
+        "question": "______ compiled the first Kannada- English dictionary .",
+        "options": [
+            "Ferdinand Kittel",
+            "Ferdinand Magellan",
+            "Kuvempu",
+            "S. Nijalingappa"
+        ]
+    },
+    {
+        "question": "Name of Karnataka state before 1973 was______   ",
+        "options": [
+            "Mysore",
+            "Calcutta",
+            "Madras",
+            "Bangalore"
+        ]
+    },
+    {
+        "question": "Letters in Kannada Language are called _________.",
+        "options": [
+            "Aksharagalu",
+            "Padagalu",
+            "Vaakyagalu",
+            "Sankhyegalu"
+        ]
+    },
+    {
+        "question": "Number of Letters (Akshara) in Kannada Language is _________.",
+        "options": [
+            49,
+            32,
+            44,
+            21
+        ]
+    },
+    {
+        "question": "Vowels are called _________in Kannada Language.",
+        "options": [
+            "Swaragalu",
+            "Vyanjanagalu",
+            "Yogavahagalu",
+            "Aksharagalu"
+        ]
+    },
+    {
+        "question": "Consonants are called_________ in Kannada Language.",
+        "options": [
+            "Vyanjanagalu",
+            "Yogavahagalu",
+            "Aksharagalu",
+            "None of these"
+        ]
+    },
+    {
+        "question": "Semi-Consonants or Part Vowel, Part Consonants are called_________.",
+        "options": [
+            "Yogavahagalu",
+            "Vyanjanagalu",
+            "Swaragalu",
+            "None of these"
+        ]
+    },
+    {
+        "question": "Yogavaha means _________.",
+        "options": [
+            "moving along with",
+            "Spinning",
+            "Twirling",
+            "None of these"
+        ]
+    },
+    {
+        "question": "Kannada word for 'Time' is ______ ",
+        "options": [
+            "samaya",
+            "ninne",
+            "ivattu",
+            "naale"
+        ]
+    },
+    {
+        "question": "Kannada word for 'Medicine' is ______ ",
+        "options": [
+            "auShada",
+            "cikitse",
+            "vaidya",
+            "daadi"
+        ]
+    },
+    {
+        "question": "Kannada word for 'ginger' is ______ ",
+        "options": [
+            "beLLuLLi",
+            "iruLLi",
+            "geDDe",
+            "geNasu"
+        ]
+    },
+    {
+        "question": "Kannada word for 'onion' is ______ ",
+        "options": [
+            "niiruLLi",
+            "beLLuLLi",
+            "suvarna geDDe",
+            "muLLu soute"
+        ]
+    },
+    {
+        "question": "Kannada word for 'green chilly' is ______ ",
+        "options": [
+            "meNasinakaayi",
+            "kempu meNasu",
+            "jeerige meNasu",
+            "none of these"
+        ]
+    },
+    {
+        "question": "Kannada word for 'health is ______ ",
+        "options": [
+            "aarogya",
+            "anarogya",
+            "vaidya",
+            "daadi"
+        ]
+    },
+    {
+        "question": "Kannada word for 'fruits' is ______ ",
+        "options": [
+            "haNNu",
+            "tarakari  ",
+            "biija",
+            "ciguru"
+        ]
+    },
+    {
+        "question": "Kannada word for 'train' is ______ ",
+        "options": [
+            "railu",
+            "bassu ",
+            "skutar",
+            "banDi"
+        ]
+    },
+    {
+        "question": "Kannada word for 'holiday' is ______ ",
+        "options": [
+            "raje",
+            "kelas",
+            "uddime",
+            "basavaLike"
+        ]
+    },
+    {
+        "question": "Kannada word for 'station' is ______ ",
+        "options": [
+            "nildaaNa",
+            "devastana",
+            "mane",
+            "goDE"
+        ]
+    },
+    {
+        "question": "Kannada word for 'fee' is ______ ",
+        "options": [
+            "Sulka",
+            "Sifarassu",
+            "ucita",
+            "ThevaNe"
+        ]
+    },
+    {
+        "question": "Kannada word for 'song' is ______ ",
+        "options": [
+            "haaDu",
+            "haaDisu",
+            "haaDina",
+            "haadiga"
+        ]
+    },
+    {
+        "question": "Fill in the blank by using the appropriate verb form given in the bracket. avanu kaalejige naale ______ ganTege barutthane (samaya bareyiri)",
+        "options": [
+            "enTu",
+            "eStu",
+            "yavaaga",
+            "elli "
+        ]
+    },
+    {
+        "question": "Fill in the blank by using the appropriate verb form given in the bracket. indu niivellaru oTTagi asignmenTTannu ______ (sallisu)",
+        "options": [
+            "sallisi",
+            "koDi",
+            "tanni",
+            "niiDi"
+        ]
+    },
+    {
+        "question": "Fill in the blank by using the appropriate verb form given in the bracket. prinsipalaru kaaryakramakke ______ (baru)",
+        "options": [
+            "baruttare",
+            "baruvaru",
+            "bandiddare",
+            "banni"
+        ]
+    },
+    {
+        "question": "Fill in the blank by using the appropriate verb form given in the bracket. avanige tumba cennagi haaDunnu _____ baruttade. (haaDu)",
+        "options": [
+            "haaDalu",
+            "haaDisalu",
+            "keLalu",
+            "heLalu"
+        ]
+    },
+    {
+        "question": "Fill in the blank by using the appropriate verb form given in the bracket. suuryanu paschima dikkinalli ____ (muLu)",
+        "options": [
+            "muLugida",
+            "nintha",
+            "aDagida",
+            "muuDida"
+        ]
+    },
+    {
+        "question": "Fill in the blank by using the appropriate verb form given in the bracket. avanu crickeTannu _______ (aaDu)",
+        "options": [
+            "aaDuttane",
+            "noDuttane",
+            "aaDida",
+            "aaDuttidda"
+        ]
+    },
+    {
+        "question": "Fill in the blank by using the appropriate verb form given in the bracket. nanage iijalu _______ (baru)",
+        "options": [
+            "baruttade",
+            "bandide",
+            "bande",
+            "baradu"
+        ]
+    },
+    {
+        "question": "Fill in the blank by using the appropriate verb form given in the bracket. iiga namage taragati _____ ( praramba)",
+        "options": [
+            "praarambavaguttade",
+            "prarambavagide",
+            "prarambavagli",
+            "none of these"
+        ]
+    },
+    {
+        "question": "Fill in the blank by using the appropriate verb form given in the bracket. namma tande holadalli kelas _______ (maaDu)",
+        "options": [
+            "maaDuttiddare",
+            "maaDiddaare",
+            "maaDu",
+            "maaDikoLLU"
+        ]
+    },
+    {
+        "question": "Fill in the blank by using the appropriate verb form given in the bracket. naanu naaLe mangalurige ________ (hogu)",
+        "options": [
+            "hoguttene",
+            "hoguvenu ",
+            "hogali",
+            "baarali"
+        ]
+    },
+    {
+        "question": "Select the correct negative form of the word 'hoguttane'",
+        "options": [
+            "hoguvudilla",
+            "hogalaara",
+            "hoguvanu",
+            "hogalaagadu"
+        ]
+    },
+    {
+        "question": "Select the correct negative form of the word 'bandide'",
+        "options": [
+            "bandilla",
+            "baruvudu",
+            "barabahudu",
+            "baralagadu"
+        ]
+    },
+    {
+        "question": "Select the correct negative form of the word 'ide'",
+        "options": [
+            "illa",
+            "iru ",
+            "iralara",
+            "iradu"
+        ]
+    },
+    {
+        "question": "Select the correct negative form of the word 'ittu'",
+        "options": [
+            "iralilla",
+            "iradu",
+            "iralaaradu",
+            "irabeku"
+        ]
+    },
+    {
+        "question": "Select the correct negative form of the word ' kuDidanu'",
+        "options": [
+            "kuDiyalilla",
+            "kuDisida",
+            "keLida",
+            "none of these"
+        ]
+    },
+    {
+        "question": "Select the correct negative form of the word 'aayitu'",
+        "options": [
+            "aagalilla",
+            "aagide",
+            "aaguvudu",
+            "aagadagadu"
+        ]
+    },
+    {
+        "question": "Select the correct negative form of the word 'noDutthane'",
+        "options": [
+            "noDuvudilla",
+            "nodida",
+            "noDalaagalilla",
+            "noDalaagdu"
+        ]
+    },
+    {
+        "question": "Kannada word for 'assignment' is ______ ",
+        "options": [
+            "niyoojane",
+            "ayoojane",
+            "anukaraNe",
+            "none of these"
+        ]
+    },
+    {
+        "question": "Kannada word for 'submit'  is ______ ",
+        "options": [
+            "sallisu ",
+            "sallisida",
+            "sallisadiru",
+            "sallisabeDa"
+        ]
+    },
+    {
+        "question": "Kannada word for 'chemistry' is ______ ",
+        "options": [
+            "rasayaanaShastra",
+            "rasavidye",
+            "rasa jnana",
+            "vignaana"
+        ]
+    },
+    {
+        "question": "Kannada word for 'banana' is ______ ",
+        "options": [
+            "baLehaNNu",
+            "kadaLi",
+            "nendra",
+            "gaaLi"
+        ]
+    },
+    {
+        "question": "Kannada word for 'film' is ______ ",
+        "options": [
+            "sinimaa",
+            "dharavaahi",
+            "kirucitra",
+            "none of these"
+        ]
+    },
+    {
+        "question": "Kannada word for 'strike' is ______ ",
+        "options": [
+            "band ",
+            "hiDi",
+            "nillu",
+            "hogu"
+        ]
+    },
+    {
+        "question": "Kannada word for 'mango' is ______ ",
+        "options": [
+            "maavu",
+            "halasu",
+            "alasanDe",
+            "hagalakayee"
+        ]
+    },
+    {
+        "question": "Kannada word for 'physics' is ______ ",
+        "options": [
+            "bhouthaShastra",
+            "bhugooLa",
+            "jiivaShastra",
+            "jivagnana"
+        ]
+    },
+    {
+        "question": "Kannada word for 'history' is ______ ",
+        "options": [
+            "itihaasa",
+            "samaaja Shastra",
+            "bhugooLa",
+            "rajakiya Sastra"
+        ]
+    },
+    {
+        "question": "Kannada word for 'economics' is ______ ",
+        "options": [
+            "artha Shstra",
+            "samaaja Shastra",
+            "bhugooLa",
+            "rajakiya Sastra"
+        ]
+    },
+    {
+        "question": "Verb is known as___________ in Kannada language.",
+        "options": [
+            "Kriya Pada",
+            "Naamapada",
+            "Pada Vishesha",
+            "Upasarga"
+        ]
+    },
+    {
+        "question": "The sentence \u201cAvalu oduttale\u201d, means \u201cShe is reading\u201d . The word 'Oduttale' is _________.",
+        "options": [
+            "Verb",
+            "Pronoun",
+            "Adjective",
+            "None of these"
+        ]
+    },
+    {
+        "question": "The sentence \u201cneenu yenu maaDiruve?\u201d, means \u201cwhat did you do?\u201d . The word 'maaDiruve' is _________",
+        "options": [
+            "Verb",
+            "Pronoun",
+            "Adjective",
+            "None of these"
+        ]
+    },
+    {
+        "question": "If 'bare' is 'barede' , 'tinnu' is _______",
+        "options": [
+            "tinde",
+            "tiinisi",
+            "tinnu",
+            "tinnanu"
+        ]
+    },
+    {
+        "question": "If 'bare' is 'barede' , 'baa' is _____",
+        "options": [
+            "bande",
+            "banni",
+            "baa",
+            "hogu"
+        ]
+    },
+    {
+        "question": "If 'bare' is 'barede' , 'taa' is ___________",
+        "options": [
+            "tande",
+            "taru",
+            "tago",
+            "tegeduko"
+        ]
+    },
+    {
+        "question": "If 'bare' is 'barede' , 'kare' is ___________",
+        "options": [
+            "karede",
+            "kareyiri",
+            "kaaNiri",
+            "kanasu"
+        ]
+    },
+    {
+        "question": "If 'bare' is 'barede' , 'gellu' is ________",
+        "options": [
+            "gedde",
+            "gellisu",
+            "giddiri",
+            "gedduko"
+        ]
+    },
+    {
+        "question": "If 'bare' is 'barede' , 'beeLu' is ___________",
+        "options": [
+            "bidde",
+            "biiLisu",
+            "biiLadiru",
+            "bidduko"
+        ]
+    },
+    {
+        "question": "If 'bare' is 'barede' , 'beLe' is _______",
+        "options": [
+            "beLede",
+            "beLeyabeDa",
+            "beLeduko",
+            "bEeLesiri"
+        ]
+    },
+    {
+        "question": "If 'kali' is 'kalite' , 'mare' is _______",
+        "options": [
+            "marete",
+            "maretu",
+            "marevu",
+            "mareya"
+        ]
+    },
+    {
+        "question": "If 'kali' is 'kalite' , 'kiiLu' is ____",
+        "options": [
+            "kitte",
+            "kiilalagade",
+            "kiiLalare",
+            "kiiLisu"
+        ]
+    },
+    {
+        "question": "If 'kali' is 'kalite' , 'soolu' is __________",
+        "options": [
+            "soote",
+            "soolisu",
+            "solisa beDa",
+            "sootu hoogu"
+        ]
+    },
+    {
+        "question": "if ' sundara + aagi = sundaravaagi, ' doDDadu + aagi ='",
+        "options": [
+            "doDDadaagi",
+            "doDDadu",
+            "doDDadaad",
+            "none of these"
+        ]
+    },
+    {
+        "question": "if ' sundara + aagi = sundaravaagi,  'cikkadu + aagi ='",
+        "options": [
+            "chikkadaagi",
+            "chokkavagi",
+            "Shuddavagi",
+            "svachavaagi"
+        ]
+    },
+    {
+        "question": "if ' sundara + aagi = sundaravaagi, 'keTTadu + aagi ='",
+        "options": [
+            "keTTadaagi",
+            "kiiLaagi",
+            "chikkadaagi",
+            "saNNadaagi"
+        ]
+    },
+    {
+        "question": "if ' sundara + aagi = sundaravaagi, 'kempu + aagi ='",
+        "options": [
+            "kempaagi",
+            "kempaadaddu",
+            "kempagina",
+            "kempu taavare"
+        ]
+    },
+    {
+        "question": "What is the capital of Karnataka ?",
+        "options": [
+            "BengaLuru",
+            "mangaluru",
+            "mandya",
+            "mysore"
+        ]
+    },
+    {
+        "question": "How many districts in Karnataka?",
+        "options": [
+            31,
+            22,
+            44,
+            25
+        ]
+    },
+    {
+        "question": "In which district, the Jog Falls is located. ",
+        "options": [
+            "Shivamogga",
+            "Udupi",
+            "Bijapur",
+            "Mangalore"
+        ]
+    },
+    {
+        "question": "Which is the famous Wildlife Sanctuaries of Karnataka?",
+        "options": [
+            "Nagarahole",
+            "Sultan Batteri",
+            "Karwara",
+            "Dandeli"
+        ]
+    },
+    {
+        "question": "Shravanabelagola is famous for _______.",
+        "options": [
+            "Statue of Baahubali",
+            "Statue of Liberty",
+            "Statue of Unity",
+            "Statue of Shiva"
+        ]
+    },
+    {
+        "question": "Belur and Halebidu is located in _______ district.",
+        "options": [
+            "Hassan",
+            "Udupi",
+            "Mangalore",
+            "Bidar"
+        ]
+    },
+    {
+        "question": "_____ is the famous tourist spot of Bijapur.",
+        "options": [
+            "Golgumbaz",
+            "Taj Mahal",
+            "Rock Chariot",
+            "Sun Temple"
+        ]
+    },
+    {
+        "question": "Who is Mayurvarma?",
+        "options": [
+            "Founder of Kadamba Dynasty",
+            "Singer",
+            "Politician",
+            "Poet"
+        ]
+    },
+    {
+        "question": "The most famous dynasty that ruled Karnataka is __________",
+        "options": [
+            "Vijayanagara ",
+            "Mughals",
+            "Tughlaq",
+            "Persians"
+        ]
+    },
+    {
+        "question": "The capital of Vijayanagara kingdom was ______.",
+        "options": [
+            "Hampi",
+            "Udupi",
+            "Karkala",
+            "Mysore"
+        ]
+    },
+    {
+        "question": "Vijayanagara kingdom was situated on the bank of _____ river. ",
+        "options": [
+            "Tunga",
+            "Kaveri",
+            "Godavari",
+            "Netravati"
+        ]
+    },
+    {
+        "question": "Another name for Kannambadi Dam is ___________.",
+        "options": [
+            "Krishnaraja Sagara",
+            "Bheema Sagara",
+            "Chinmay Sagara",
+            "Basava Sagara"
+        ]
+    },
+    {
+        "question": "What is the state song of Karnataka?",
+        "options": [
+            "Jaya Bharata Jananiya Tanujate",
+            "Vande Mataram",
+            "Janagana mana",
+            "None of these"
+        ]
+    },
+    {
+        "question": "Name the only major port in Karnataka?",
+        "options": [
+            "New Mangalore Port",
+            "Malpe",
+            "Padubidri",
+            "Suratkal"
+        ]
+    },
+    {
+        "question": "When was Karnataka formed?",
+        "options": [
+            "1st November 1956",
+            "2nd March 1990",
+            "1st March 1968",
+            "1st December 1956"
+        ]
+    },
+    {
+        "question": "Who is the first poet of Kannada Literature?",
+        "options": [
+            "Pampa",
+            "Ranna",
+            "Kuvempu",
+            "Chinmay"
+        ]
+    },
+    {
+        "question": "Freedom fighters who belong to Karnataka state are __________",
+        "options": [
+            "Sangolli rayanna and kitturu chennamma",
+            "Shivaji",
+            "Tanaaji",
+            "Ranajith singh"
+        ]
+    },
+    {
+        "question": "How many river basin are there in Karnataka ?",
+        "options": [
+            7,
+            9,
+            11,
+            13
+        ]
+    },
+    {
+        "question": "Architect behind KSR dam , mysore was ______ .",
+        "options": [
+            "Sir.M.vishveshvarayya",
+            "c.rangaacharlu",
+            "sheshadri ayyar",
+            "Odeyar"
+        ]
+    },
+    {
+        "question": "Yakshagana is the popular dance form of _____ state",
+        "options": [
+            "Karnataka",
+            "Mandya",
+            "T.naadu",
+            "Kerala"
+        ]
+    },
+    {
+        "question": "Another name for Kodagu is _____.",
+        "options": [
+            "Madikeri",
+            "budaalu",
+            " Mandya",
+            "mysore"
+        ]
+    },
+    {
+        "question": "Myosre palace is located in ______ district",
+        "options": [
+            "Mysore",
+            "Mandya",
+            "Bengaluru",
+            "Mangalore"
+        ]
+    },
+    {
+        "question": "Where is Tunga Bhadra dam  located ?",
+        "options": [
+            "Hosapete",
+            "Bagalakote",
+            "KRS",
+            "Kabini"
+        ]
+    },
+    {
+        "question": "For Sharavati river dam is built at _______ place.",
+        "options": [
+            "Linganamakki",
+            "kabini",
+            "Bidar",
+            "Kolara"
+        ]
+    },
+    {
+        "question": "Kannada word for 'culture' is ______ ",
+        "options": [
+            "samskriti",
+            "asamskriti",
+            "puratana",
+            "hosatu"
+        ]
+    },
+    {
+        "question": "Kannada word for 'language' is ______ ",
+        "options": [
+            "bhaaShe",
+            "pada ",
+            "maatu",
+            "nuDi"
+        ]
+    },
+    {
+        "question": "Kannada word for 'encourage' is ______ ",
+        "options": [
+            "protsaahisu",
+            "munnaDesu",
+            "munduvaresu",
+            "none of these"
+        ]
+    },
+    {
+        "question": "Kannada word for 'award' is ______ ",
+        "options": [
+            "praSasti",
+            "sambrama",
+            "sanmana",
+            "seve"
+        ]
+    },
+    {
+        "question": "Kannada word for 'tradition' is ______ ",
+        "options": [
+            "parampare",
+            "pfrachiina",
+            "pragatipara",
+            "none of these"
+        ]
+    },
+    {
+        "question": "Kannada word for 'available' is ______ ",
+        "options": [
+            "doraku",
+            "odagisu",
+            "odagu",
+            "doarakisida"
+        ]
+    },
+    {
+        "question": "English word for 'hemme' is ______ ",
+        "options": [
+            "proud",
+            "pride",
+            "jamba",
+            "soul"
+        ]
+    },
+    {
+        "question": "English word for 'sahanasheelavyakti' is ______ ",
+        "options": [
+            "tolerant",
+            "model",
+            "level",
+            "profuct"
+        ]
+    },
+    {
+        "question": "English word for 'giridhama' is ______ ",
+        "options": [
+            "Hill station",
+            "river bank",
+            "sea bank",
+            "field"
+        ]
+    },
+    {
+        "question": "English word for 'maTTa' is ______ ",
+        "options": [
+            "Level",
+            "hight",
+            "down",
+            "none of these"
+        ]
+    },
+    {
+        "question": "English word for 'kaigarike' is ______ ",
+        "options": [
+            "Factory",
+            "factore",
+            "force",
+            "feare"
+        ]
+    },
+    {
+        "question": "English word for 'maadari' is ______ ",
+        "options": [
+            "model",
+            "nodel",
+            "avileble",
+            "iron"
+        ]
+    },
+    {
+        "question": "English word for 'saamrajya' is ______ ",
+        "options": [
+            "Kingdom",
+            "random",
+            "protect",
+            "worthy"
+        ]
+    },
+    {
+        "question": "English word for 'naisargika' is ______ ",
+        "options": [
+            "Natural",
+            "tradition",
+            "award",
+            "wealth"
+        ]
+    },
+    {
+        "question": "How old is History of Kannada language ?",
+        "options": [
+            "2500yrs",
+            "2000yrs",
+            "3000yrs",
+            "1700yrs"
+        ]
+    },
+    {
+        "question": "The Halmidi inscription was found in which district of Karnataka ?",
+        "options": [
+            "Hassan",
+            "Beluru",
+            "Shravanabelgola",
+            "Hampi"
+        ]
+    },
+    {
+        "question": "Who of the following is the author of the state anthem of Karnataka?",
+        "options": [
+            "Kuvempu",
+            "Shivaram Karanth",
+            "Bendre",
+            "Byrappa"
+        ]
+    },
+    {
+        "question": "On which of the follwing river is Jog Falls situated?",
+        "options": [
+            "Sharavati",
+            "Kaveri",
+            "Hemavati",
+            "Gataprabha"
+        ]
+    },
+    {
+        "question": "Who was the first person to be awarded the Jnanapitha award for Kannada?",
+        "options": [
+            "Kuvempu",
+            "Shivram Karanth",
+            "Gokak",
+            "Bendre"
+        ]
+    },
+    {
+        "question": "Chennapatna a place in Ramnagara district is famous for _______.",
+        "options": [
+            "Toys",
+            "Silk",
+            "Agarbatti",
+            "Sandalwood"
+        ]
+    },
+    {
+        "question": "Which of the follwing place is famous for metal handcraft known as 'Bidriware'?",
+        "options": [
+            "Bidar",
+            "Udupi",
+            "Hassan",
+            "Mysore"
+        ]
+    },
+    {
+        "question": "At which place is the Suvarna Vidhan Souda located?",
+        "options": [
+            "Belagavi",
+            "Bidar",
+            "Chikmangalur",
+            "Bijapur"
+        ]
+    },
+    {
+        "question": "Where is the Nuclear power plant situated in Karnataka?",
+        "options": [
+            "Kiga",
+            "Karkala",
+            "Karwara",
+            "Badami"
+        ]
+    },
+    {
+        "question": "In which year was Kannda granted the status of a classical language by the central government?",
+        "options": [
+            2008,
+            2011,
+            2005,
+            2020
+        ]
+    },
+    {
+        "question": "_________ is the famous poet of 'Hale Kannada' literature.",
+        "options": [
+            "Ponna",
+            "Karant",
+            "Bendre",
+            "Kuvempu"
+        ]
+    },
+    {
+        "question": "Modern Kannada literature is influenced by ________ language.",
+        "options": [
+            "English",
+            "Marathi",
+            "Tulu",
+            "Konkani"
+        ]
+    },
+    {
+        "question": "Tamil, Kannada, Telugu and Tulu are ___________ languages.",
+        "options": [
+            "Dravidian",
+            "Arya",
+            "Brahuhi",
+            "Brahmi"
+        ]
+    },
+    {
+        "question": "Rich vocabulary in Kannada language facilitates ______.",
+        "options": [
+            "Meaningful communication",
+            "Ineffective conversation",
+            "Ambiguous communication",
+            "Incoherent dialogue"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'source' in Kannada language.",
+        "options": [
+            "aadhara",
+            "niradhara",
+            "aasare",
+            "niraase"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'beginning' in Kannada language.",
+        "options": [
+            "aaramba",
+            "kone",
+            "mugi",
+            "haleya"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'dialect' in Kannada language.",
+        "options": [
+            "upabaaSe",
+            "hosabaSe",
+            "nudi",
+            "hosakannaD"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'lifesytle' in Kannada language.",
+        "options": [
+            "jiivanakrama",
+            "jiivan vikrama",
+            "jivana akram",
+            "jana jivana"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'period' in Kannada language.",
+        "options": [
+            "avadhi",
+            "adhikara",
+            "hosa kaala",
+            "haLekaala"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'technical education' in Kannada language.",
+        "options": [
+            "taantrika SikshaNa",
+            "kala SikshaNa",
+            "vaaNijya Sikshana",
+            "sangeetha SikshaNa"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'medievel kannada' in Kannada language.",
+        "options": [
+            "madyakaaliina kannaDa",
+            "hosa gannaDa",
+            "haLe kannaDa",
+            "none of these"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'variety' in Kannada language.",
+        "options": [
+            "prabhedha",
+            "upabhedha",
+            "sahabedha",
+            "saha prakara"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'scholar' in Kannada language.",
+        "options": [
+            "panDitha",
+            "kalivava",
+            "kalisuvava",
+            "kaliyuttiruvava"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'scientific' in Kannada language.",
+        "options": [
+            "vaijnanika",
+            "ajnana",
+            "apaarajnaan",
+            "avajnaana"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'peculiar' in Kannada language.",
+        "options": [
+            "vicitra",
+            "khachita",
+            "aparicita",
+            "none of these"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'niyama' in English language.",
+        "options": [
+            "Rule",
+            "Rare",
+            "Roar",
+            "Random"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'abhipraya' in English language.",
+        "options": [
+            "Opinion",
+            "Lesson",
+            "Education",
+            "Ability"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'manya' in English language.",
+        "options": [
+            "Acceptable",
+            "Sure",
+            "Waste",
+            "None of these"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'HaLe Kannada' in English language.",
+        "options": [
+            "Old Kannada",
+            "Modern Kannada",
+            "Medieval Kannada",
+            "None of these"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'shasana' in English language.",
+        "options": [
+            "Inscription",
+            "Letter",
+            "Word",
+            "Painting"
+        ]
+    },
+    {
+        "question": "__________ is the meaning of the word 'samanya jana' in English language.",
+        "options": [
+            "Ordinary People",
+            "Strange people",
+            "Crazy people",
+            "Mad People"
+        ]
+    },
+    {
+        "question": "Who is the 'Tripadi poet' of Kannada?",
+        "options": [
+            "Sarvajnya",
+            "Chinmay",
+            "Bharat",
+            "Rama"
+        ]
+    },
+    {
+        "question": "________ was the first person to get the title of 'Rashtrakavi' from Karnataka.",
+        "options": [
+            "Govinda Pai",
+            "Panaje Mangeshraya",
+            "Ugrana Mangeshraya",
+            "C. Kambara"
+        ]
+    },
+    {
+        "question": "The famous work of Kuvempu is __________.",
+        "options": [
+            "Shri Ramayana Darshanam",
+            "Daatu",
+            "Alidamele",
+            "Gere"
+        ]
+    },
+    {
+        "question": "_________ was the first dynasty of Karnataka.",
+        "options": [
+            "Kadamba",
+            "Mughals",
+            "Maratha",
+            "Vijayanagara"
+        ]
+    },
+    {
+        "question": "The first Kannada inscription is _________.",
+        "options": [
+            "Halmidi",
+            "Badami",
+            "Udupi",
+            "Mangaladevi"
+        ]
+    },
+    {
+        "question": "Kannada word for 'dignity' is ______ .",
+        "options": [
+            "Ghanate",
+            "gourava",
+            "gamana",
+            "hirime"
+        ]
+    },
+    {
+        "question": "Kannada word for 'discuss' is ______ .",
+        "options": [
+            "carce",
+            "maatu",
+            "nuDi",
+            "keLu"
+        ]
+    },
+    {
+        "question": "Kannada word for 'mistake' is ______ .",
+        "options": [
+            "tappu",
+            "sari",
+            "naDe",
+            "ooDu"
+        ]
+    },
+    {
+        "question": "Kannada word for 'daily' is ______ .",
+        "options": [
+            "dinanitya",
+            "anitya",
+            "naaLe",
+            "ninne"
+        ]
+    },
+    {
+        "question": "Kannada word for 'continuous' is ______ .",
+        "options": [
+            "nirantara",
+            "sthagita",
+            "avasar",
+            "yaavudu alla"
+        ]
+    },
+    {
+        "question": "Kannada word for 'methodologies' is ______ .",
+        "options": [
+            "maargopaayagaLu",
+            "daarigaLu",
+            "haaDi",
+            "biidi"
+        ]
+    },
+    {
+        "question": "Kannada word for 'environment' is ______ .",
+        "options": [
+            "parisara",
+            "parampare",
+            "praciina",
+            "puratana"
+        ]
+    },
+    {
+        "question": "Kannada word for 'discourage' is ______ .",
+        "options": [
+            "nirutsaaha",
+            "utsaaha",
+            "cetana",
+            "jigupse"
+        ]
+    },
+    {
+        "question": "Kannada word for 'concentration' is ______ .",
+        "options": [
+            "eekaagrate",
+            "vikeendra",
+            "ondu",
+            "halavu"
+        ]
+    },
+    {
+        "question": "Kannada word for 'memory' is ______ .",
+        "options": [
+            "nenepu",
+            "marevu ",
+            "hasivu",
+            "aLivu"
+        ]
+    },
+    {
+        "question": "To write a language on must know about the ______ of the language.",
+        "options": [
+            "Script",
+            "History",
+            "Words",
+            "None of these"
+        ]
+    },
+    {
+        "question": "Advantage of learning a local/regional language is",
+        "options": [
+            "All of these",
+            "Purpose of communication",
+            "Purpose of education",
+            "New Business"
+        ]
+    },
+    {
+        "question": "Kannada is the language widely spoken in _________ state.",
+        "options": [
+            "Karnataka",
+            "Goa",
+            "Kerala",
+            "Gujrat"
+        ]
+    },
+    {
+        "question": "In the first step of learning a new language we should start with _________ activies.",
+        "options": [
+            "Listening and Hearing",
+            "Reading",
+            "Talking",
+            "None of these"
+        ]
+    },
+    {
+        "question": "_________is the Stressed letter in the word  \u0c85\u0caa\u0ccd\u0caa Father (Appa)",
+        "options": [
+            "Ppa",
+            "PaP",
+            "pa",
+            "p a"
+        ]
+    },
+    {
+        "question": "________is the Stressed letter in the word \u0c85\u0cae\u0ccd\u0cae Mother (Amma)",
+        "options": [
+            "Mma",
+            "MaM",
+            "Ma",
+            "M a"
+        ]
+    },
+    {
+        "question": "Unlike in English, there are ______ types of Genders in Kannada language.",
+        "options": [
+            4,
+            6,
+            2,
+            1
+        ]
+    },
+    {
+        "question": "_____________ is the similar term in Kannada for Feminine Gender.",
+        "options": [
+            "Stree Linga",
+            "Pullinga",
+            "Napumsaka Linga",
+            "Saamanya Linga"
+        ]
+    },
+    {
+        "question": "If the word King / Raaja is masculine in gender,the feminine gender form in Kannada language is ___.",
+        "options": [
+            "Raani",
+            "Hudugi",
+            "Hengasu",
+            "None of these"
+        ]
+    },
+    {
+        "question": "Gender of the Kannada word 'Jaana Huduga' is ______ ",
+        "options": [
+            "Masculine",
+            "Feminine",
+            "Neutar",
+            "None of these"
+        ]
+    },
+    {
+        "question": "Naanya, a Kannada word means 'Coin' is an example for ______ Gender.",
+        "options": [
+            "Neutar",
+            "Masculine",
+            "Feminine",
+            "None of these"
+        ]
+    },
+    {
+        "question": "Antonym of Kannada word 'Baa' (come) is______.",
+        "options": [
+            "Hogu",
+            "Sari",
+            "Hosadu",
+            "Illa"
+        ]
+    },
+    {
+        "question": "Antonym of  'Thappu' (wrong) is ",
+        "options": [
+            "Sari",
+            "Beku",
+            "Beda",
+            "Illa"
+        ]
+    },
+    {
+        "question": "Noun is called ____________ in Kannada language.",
+        "options": [
+            "Naamapada",
+            "Kriya Pada",
+            "Sarvanaamapada",
+            "Kriya Visheshana"
+        ]
+    },
+    {
+        "question": "Kannada word for 'put' is ______ .",
+        "options": [
+            "haaku",
+            "haakikoLLi",
+            "tegeyiri",
+            "etti"
+        ]
+    },
+    {
+        "question": "Kannada word for 'ask' is ______ .",
+        "options": [
+            "keeLu",
+            "heeLu",
+            "oodu",
+            "mare "
+        ]
+    },
+    {
+        "question": "Kannada word for 'tell' is ______ .",
+        "options": [
+            "heeLu",
+            "keeLu",
+            "oodu",
+            "bare "
+        ]
+    },
+    {
+        "question": "Kannada word for 'chest' is ______ .",
+        "options": [
+            "ede",
+            "kaalu",
+            "kai",
+            "muugu"
+        ]
+    },
+    {
+        "question": "Kannada word for 'finger' is ______ .",
+        "options": [
+            "beraLu",
+            "kai",
+            "kaalu",
+            "kivi"
+        ]
+    },
+    {
+        "question": "Kannada word for 'shoulder' is ______ .",
+        "options": [
+            "bhuja",
+            "ede",
+            "hradaya",
+            "kai"
+        ]
+    },
+    {
+        "question": "Kannada word for 'wife' is ______ .",
+        "options": [
+            "henDati",
+            "tangi",
+            "taayi",
+            "akka"
+        ]
+    },
+    {
+        "question": "Kannada word for 'grandson' is ______ .",
+        "options": [
+            "mommaga",
+            "mommagaLu",
+            "tangi",
+            "tamma"
+        ]
+    },
+    {
+        "question": "Kannada word for 'grandfather' is ______ .",
+        "options": [
+            "ajja",
+            "ajji",
+            "amma",
+            "akka"
+        ]
+    },
+    {
+        "question": "Kannada word for 'blind' is ______ .",
+        "options": [
+            "kuruDu",
+            "kivuDu",
+            "mooka",
+            "naraka"
+        ]
+    },
+    {
+        "question": "Kannada word for 'lady' is ______ .",
+        "options": [
+            "hengasu",
+            "gandasu",
+            "magu",
+            "huDugi"
+        ]
+    },
+    {
+        "question": "Kannada word for 'soil' is ______ .",
+        "options": [
+            "maNNu",
+            "nela",
+            "nearaLu",
+            "niiru"
+        ]
+    },
+    {
+        "question": "Kannada word for 'floor' is ______ .",
+        "options": [
+            "nela",
+            "maraLu",
+            "maNNu",
+            "giDa"
+        ]
+    },
+    {
+        "question": "Kannada word for 'shadow' is ______ .",
+        "options": [
+            "neraLu",
+            "bisilu",
+            "maLe",
+            "gaaLi"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'mosquito' is ______.",
+        "options": [
+            "soLLe",
+            "iruve",
+            "mola",
+            "haavu"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'ant' is ______.",
+        "options": [
+            "iruve",
+            "ili",
+            "aLilu",
+            "mola"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'sparrow' is ______.",
+        "options": [
+            "gubbacci",
+            "kogile",
+            "kaage",
+            "onTe"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'wolf' is ______.",
+        "options": [
+            "nari",
+            "sihma",
+            "naayi",
+            "kudure"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'goat' is ______.",
+        "options": [
+            "kuri",
+            "nari",
+            "aaDu",
+            "meke"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'south' is ______.",
+        "options": [
+            "dakShiNa",
+            "puurva ",
+            "uttara",
+            "yaavudu alla"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'west' is ______.",
+        "options": [
+            "pascima",
+            "puurva",
+            "dakSiNa",
+            "aagneya"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'ghee' is ______.",
+        "options": [
+            "tuppa",
+            "beNNe",
+            "haalu",
+            "mosaru"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'butter' is ______.",
+        "options": [
+            "beNNe",
+            "mosaru",
+            "kene",
+            "majjige"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'buttermilk' is ______.",
+        "options": [
+            "majjige",
+            "mosaru",
+            "tea",
+            "kafee"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'curd' is ______.",
+        "options": [
+            "mosaru",
+            "majjige",
+            "haalu",
+            "niiru"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'pickle' is ______.",
+        "options": [
+            "uppinakaayi",
+            "jaamuunu",
+            "tinDi",
+            "uuTa"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'meal' is ______.",
+        "options": [
+            "uuTa",
+            "tinDi",
+            "sihi",
+            "tea"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'bitter' is ______.",
+        "options": [
+            "kahi",
+            "sihi",
+            "huLI",
+            "cappe"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'sprouts' is ______.",
+        "options": [
+            "molake",
+            "iDi kaalu",
+            "hasi kaaLu",
+            "yaavudu alla"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent Kannada word for 'horsegram' is ______.",
+        "options": [
+            "huruLi",
+            "hesaru",
+            "uddu",
+            "goodi"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent English word for 'akki' is ______.",
+        "options": [
+            "Rice",
+            "Fruit",
+            "Wheat",
+            "Vegetable"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent English word for 'kaaLu' is ______.",
+        "options": [
+            "Leg",
+            "Hand",
+            "Eyes",
+            "Body"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent English word for 'nagu' is ______.",
+        "options": [
+            "Laugh",
+            "Cry",
+            "Shout",
+            "Silent"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent English word for 'santosha' is ______.",
+        "options": [
+            "Happy",
+            "Sad",
+            "Unhappy",
+            "Sick"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent English word for 'arogya' is ______.",
+        "options": [
+            "Health",
+            "Wealth",
+            "Money",
+            "timepass"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent English word for 'gaaya' is ______.",
+        "options": [
+            "Wound",
+            "Park",
+            "Jack",
+            "Night"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent English word for 'paaTre' is ______.",
+        "options": [
+            "Vessels",
+            "Pen",
+            "Book",
+            "Bucket"
+        ]
+    },
+    {
+        "question": "The appropriate equivalent English word for 'biidi' is ______.",
+        "options": [
+            "Street",
+            "Light",
+            "Dark",
+            "Morning"
+        ]
+    }
+]

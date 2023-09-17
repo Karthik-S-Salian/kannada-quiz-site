@@ -1,0 +1,18 @@
+
+.card {
+  padding: 2em;
+}
+
+
+main{
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap:2rem;
+  height: 100%;
+  min-height: 100vh;
+  max-width: 900px;
+  margin: auto;
+}

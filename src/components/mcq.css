@@ -1,0 +1,52 @@
+.question{
+  font-size: 1.1rem;
+}
+
+.question-list-container {
+  font-weight: 500;
+  counter-reset: li-count;
+  list-style: none;
+}
+
+.question-container {
+  counter-increment: li-count;
+  background-color: rgba(240, 255, 255, 0.13);
+  margin: 1rem 0;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.question-container>p:before {
+  content: counter(li-count) '.  ';
+  font-weight: bold;
+}
+
+.question-container ol {
+  list-style-type: lower-alpha;
+}
+
+.question-container li {
+  margin: 5px 0;
+  cursor: pointer;
+  padding: .5rem;
+  border-radius: 5px;
+}
+
+
+.bg-green {
+  background-color: rgba(128, 255, 0, 0.5);
+}
+
+.bg-red {
+  background-color: rgba(255, 0, 0, 0.5);
+}
+
+
+.bg-yellow{
+  background-color: rgba(255, 255, 0, 0.5);
+}
+
+.kannada-font{
+  font-family: 'Noto Sans Kannada', sans-serif;
+}
+
