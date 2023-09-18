@@ -1,79 +1,39 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import './App.css'
-import Card from './components/Card';
-import MCQList from './components/MCQList';
 import GithubCorner from './components/GithubCorner';
+import { attemptTypes, kannadaTypes } from "./constants";
+import KannadaSelection from './components/KannadaSelection';
+import AttemptSelection from './components/AttemptSelection';
+import McqPage from './components/McqPage';
+import Navbar from './components/Navbar';
+import Exam from './components/Exam';
+import { Route, Routes, Navigate, useNavigate } from 'react-router-dom';
 
-const validAttemptType = ["learn", "try","test"]
-const validKannadaType = ["balake", "samskrutika"]
 
 function App() {
-  const [kannadaType, setKannadaType] = useState(null);
-  const [attemptType, setAttemptType] = useState(null);
+  const [kannadaType, setKannadaType] = useState(kannadaTypes[0]);
+  const [attemptType, setAttemptType] = useState(attemptTypes[0]);
+  const navigate = useNavigate();
+  console.log("rendering")
 
-  function onKannadaTypeSelection(kannadaType) {
-    setKannadaType(kannadaType)
-  }
-
-  function onAttemptTypeSelection(attemptType) {
-    setAttemptType(attemptType)
-  }
-
-  let content = ""
-
-  if (!validKannadaType.includes(kannadaType)) {
-    content = (
-      <>
-        <Card
-          title="Balake Kannada"
-          description=""
-          handleClick={() => { onKannadaTypeSelection(validKannadaType[0]) }}
-        />
-
-        <Card
-          title="Samskruthika Kannada"
-          description=""
-          handleClick={() => { onKannadaTypeSelection(validKannadaType[1]) }}
-        />
-      </>
-
-    )
-  } else if (!validAttemptType.includes(attemptType)) {
-    content = (
-      <>
-        <Card
-          title="Learner"
-          description="correct answer will be displayed in green"
-          handleClick={() => { onAttemptTypeSelection(validAttemptType[0]) }}
-        />
-
-        <Card
-          title="Intermediate"
-          description="correct answer is shown after selecting option"
-          handleClick={() => { onAttemptTypeSelection(validAttemptType[1]) }}
-        />
-
-      {/* <Card
-          title="Expert"
-          description="write a test of 40 random question in 20 minutes"
-          handleClick={() => { onAttemptTypeSelection(validAttemptType[2]) }}
-        /> */}
-      </>
-
-    )
-  } else {
-      content=(<MCQList 
-        isBalake={kannadaType==validKannadaType[0]}
-        attemptType={attemptType}
-        />)
-
-  }
+  useEffect(() => {
+    navigate("/")
+  }, [])
 
   return (
-    <main>
-        <GithubCorner/>
-        {content}
-    </main>
+    <>
+      <GithubCorner />
+      <Navbar kannadaType={kannadaType} attemptType={attemptType} />
+      <main>
+        <Routes kannadaType={kannadaType} attemptType={attemptType}>
+          <Route path="/" element={<KannadaSelection handleClick={setKannadaType} />} />
+          <Route path="/attempt" element={<AttemptSelection handleClick={setAttemptType} />} />
+          <Route path="/mcqs" element={<McqPage kannadaType={kannadaType} attemptType={attemptType} />} />
+          <Route path="/test" element={<Exam kannadaType={kannadaType} attemptType={attemptType} />} />
+          <Route path="*" element={<Navigate replace to="/" />} />
+        </Routes>
+      </main>
+    </>
   )
 }
 

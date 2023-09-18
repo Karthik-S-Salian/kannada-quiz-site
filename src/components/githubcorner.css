@@ -1,10 +1,11 @@
-.github-corner svg {
+.github-corner {
   fill: white;
   color: #192d38;
   position: fixed;
   top: 0;
   border: 0;
   right: 0;
+  z-index: 10;
 }
 
 .github-corner:hover .octo-arm {

@@ -1,0 +1,10 @@
+nav {
+    width: 100%;
+    padding: 1rem;
+
+}
+
+nav a{
+    text-decoration: underline;
+    text-transform: capitalize;
+}
