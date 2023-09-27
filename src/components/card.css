@@ -1,5 +1,6 @@
 .card {
     width: 200px;
+    margin: 30px;
     max-width: 200px;
     aspect-ratio: 1;
     background-color: azure;

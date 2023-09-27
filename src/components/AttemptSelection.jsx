@@ -20,14 +20,6 @@ export default function AttemptSelection({ handleClick }) {
                     handleClick={() => { handleClick(attemptTypes[1]) }}
                 />
             </Link>
-
-            <Link to="/test">
-                <Card
-                    title="Expert"
-                    description="not implemented work in progress"
-                    handleClick={() => { handleClick(attemptTypes[2]) }}
-                />
-            </Link>
         </>
     )
 }
